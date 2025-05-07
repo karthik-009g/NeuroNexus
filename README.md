@@ -1,5 +1,5 @@
-# NeuroNexus
-Doing Titanic Survival Prediction Project as a part of my NeuroNexus Internship 
+
+Doing Titanic Survival Prediction Project as a part of my preperation of landing an internship  
 
 # Titanic Survival Prediction Project
 
@@ -36,9 +36,10 @@ Predict whether a passenger survived the Titanic shipwreck based on features suc
 
 - Explored relationships between features and survival
 - Visualized survival distribution by gender, class, and age
+- currently completed till this step 
 
 ### 3. Feature Engineering
-
+still learning machine learning so may take sometime to complete this 
 - Converted categorical features (Sex, Embarked) into numerical variables using one-hot encoding
 - Dropped unnecessary columns (Name, Ticket, PassengerId)
 
