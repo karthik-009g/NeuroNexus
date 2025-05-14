@@ -1,4 +1,4 @@
- 
+  
 Doing Titanic Survival Prediction Project as a part of my preperation of landing an internship  
 
 # Titanic Survival Prediction Project
